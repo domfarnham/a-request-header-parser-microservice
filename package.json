@@ -1,0 +1,17 @@
+{
+	"name": "a-request-header-parser-microservice",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"engines": {
+		"node": "4.4.5"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/domfarnham/a-request-header-parser-microservice"
+	}
+}
